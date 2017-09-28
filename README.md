@@ -4,7 +4,7 @@
 ### Examples of use cases with MobiVM
 
  * **[Answer Me](AnswerMe)**
-   Sample of using MobiVM to genreate a framework for use in a native obj-c/swift app.
+   Sample of using MobiVM to generate a framework for use in a native obj-c/swift app.
 
 
 ## Importing
